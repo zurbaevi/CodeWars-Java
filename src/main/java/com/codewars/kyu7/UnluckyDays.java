@@ -3,6 +3,9 @@ package com.codewars.kyu7;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 
+/**
+ * @author Nika Zurbaevi
+ */
 public class UnluckyDays {
     public static int unluckyDays(int year) {
         int unlucky = 0;
