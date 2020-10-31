@@ -5,6 +5,6 @@
 
 
 ## Java
-| Challenge | Solution |
-| --- | --- |
-| [Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | [MostFrequentWeekdays.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu6/MostFrequentWeekdays.java) |
+| Subdomain | Challenge | Solution |
+| --- | --- | --- |
+| Introduction | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | [MostFrequentWeekdays.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu6/MostFrequentWeekdays.java) |
