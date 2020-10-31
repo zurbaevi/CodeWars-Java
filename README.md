@@ -2,6 +2,7 @@
 | kyu | Codewars Kate | My Solutions |
 | --- | --- | --- |
 | 6 | [Sort the odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d) | [SortTheOdd.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu6/SortTheOdd.java) |
+| 7 | [Unlucky Days](https://www.codewars.com/kata/56eb0be52caf798c630013c0) | [UnluckyDays.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/UnluckyDays.java) |
 | 7 | [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) | [HighestAndLowest.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/HighestAndLowest.java) |
 | 7 | [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c) | [OnesAndZeros.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu7/OnesAndZeros.java) |
 | 7 | [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) | [Square.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/Square.java) |
