@@ -9,7 +9,6 @@
 | 8 | [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | [Multiply.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/Multiply.java) |
 
 ## Kata Ranking (kyu)
-*source: [Codewars Wiki Honor & Ranks](https://github.com/Codewars/codewars.com/wiki/Honor-&-Ranks) and [Codewars Wiki Kata Ranking](https://github.com/Codewars/codewars.com/wiki/Kata-Ranking)*
 
 Ranks are used to indicate progression and difficulty. Code Warriors complete Kata which are assigned a rank, which in turn earns them a higher rank once they complete enough of them. There are two classes of ranks, Kyu and Dan. You begin with Kyu at level 8 and work your way down to level 1. Then you progress to Dan, where you work your way up from level 1 to level 8.
 
