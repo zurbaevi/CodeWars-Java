@@ -1,6 +1,7 @@
 ## My Solutions
 | kyu | Codewars Kate | My Solutions |
 | --- | --- | --- |
+| 6 | [Most Frequent Weekdays](https://www.codewars.com/kata/56eb16655250549e4b0013f4) | [MostFrequentWeekdays.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu6/MostFrequentWeekdays.java) |
 | 6 | [Sort the odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d) | [SortTheOdd.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu6/SortTheOdd.java) |
 | 7 | [Unlucky Days](https://www.codewars.com/kata/56eb0be52caf798c630013c0) | [UnluckyDays.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/UnluckyDays.java) |
 | 7 | [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) | [HighestAndLowest.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/HighestAndLowest.java) |
