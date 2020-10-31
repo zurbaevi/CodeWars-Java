@@ -7,6 +7,7 @@
 | 8 | [Is it even?](https://www.codewars.com/kata/555a67db74814aa4ee0001b5) | [Number.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/Number.java) |
 | 8 | [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f) | [SquareNSum.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/SquareNSum.java) |
 | 8 | [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | [Multiply.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/Multiply.java) |
+| 8 | [N-th Power](https://www.codewars.com/kata/57d814e4950d8489720008db) | [Multiply.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/NthPower.java) |
 
 ## Kata Ranking (kyu)
 
