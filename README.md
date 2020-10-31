@@ -1,6 +1,7 @@
 ## My Solutions
 | kyu | Codewars Kate | My Solutions |
 | --- | --- | --- |
+| 7 | [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c) | [OnesAndZeros.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu7/OnesAndZeros.java) |
 | 7 | [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) | [Square.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/Square.java) |
 | 8 | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) | [MakeNegative.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/MakeNegative.java) |
 | 8 | [Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d) | [FakeBinary.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/FakeBinary.java) |
@@ -8,6 +9,8 @@
 | 8 | [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f) | [SquareNSum.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/SquareNSum.java) |
 | 8 | [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | [Multiply.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/Multiply.java) |
 | 8 | [N-th Power](https://www.codewars.com/kata/57d814e4950d8489720008db) | [NthPower.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/NthPower.java) |
+| 8 | [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) | [ArrayPlusArray.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/ArrayPlusArray.java) |
+| 8 | [L1: Set Alarm](https://www.codewars.com/kata/568dcc3c7f12767a62000038) | [L1SetAlarm.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/L1SetAlarm.java) |
 
 ## Kata Ranking (kyu)
 
