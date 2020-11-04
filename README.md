@@ -1,3 +1,6 @@
+<p align="center"><a href="https://www.codewars.com/users/zurbaevi"><img src="https://camo.githubusercontent.com/1e840d7fa088dab67fd5431f4b42dca53ce61dcc/68747470733a2f2f7261772e6769746875622e636f6d2f726f68616e2d7061756c2f436f6465776172732d536f6c7574696f6e732f6d61737465722f636f6465776172732d6c6f676f2e6a7067" ></a></p>
+
+
 ## My Solutions
 | kyu | Codewars Kate | My Solutions |
 | --- | --- | --- |
