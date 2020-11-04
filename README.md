@@ -1,3 +1,5 @@
+<p align="center"><a href="https://geekbrains.ru/go/xE~XLE"><img src="https://miro.medium.com/max/1200/1*uAd3me7TWU4qMNdZiFFo7Q.png" ></a></p>
+
 ## My Solutions
 | kyu | Codewars Kate | My Solutions |
 | --- | --- | --- |
