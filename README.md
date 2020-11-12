@@ -1,7 +1,9 @@
-<p align="center"><a href="https://www.codewars.com/users/zurbaevi"><img src="https://camo.githubusercontent.com/1e840d7fa088dab67fd5431f4b42dca53ce61dcc/68747470733a2f2f7261772e6769746875622e636f6d2f726f68616e2d7061756c2f436f6465776172732d536f6c7574696f6e732f6d61737465722f636f6465776172732d6c6f676f2e6a7067" ></a></p>
+# Практикум на codewars
+Codewars - это образовательное сообщество по компьютерному программированию. На платформе разработчики программного обеспечения обучаются задачам программирования, известным как ката. Эти упражнения по дискретному программированию тренируют ряд навыков на различных языках программирования и выполняются в интегрированной онлайн-среде разработки.
 
-
-## My Solutions
+## Рейтинг Ката (kyu):
+Звания используются для обозначения прогресса и сложности. Воины Кодекса завершают Ката, которым присваивается ранг, который, в свою очередь, дает им более высокий ранг, когда они выполнили их достаточно. Есть два класса рангов, Кю и Дан. Вы начинаете с Кю на уровне 8 и продвигаетесь вниз до уровня 1. Затем вы переходите к Дэну, где вы продвигаетесь вверх с уровня 1 до уровня 8.
+____
 | kyu | Codewars Kate | My Solutions |
 | --- | --- | --- |
 | 5 | [Count IP Addresses](https://www.codewars.com/kata/526989a41034285187000de4) | [CountIPAddresses.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu5/CountIPAddresses.java) |
@@ -21,73 +23,4 @@
 | 8 | [N-th Power](https://www.codewars.com/kata/57d814e4950d8489720008db) | [NthPower.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/NthPower.java) |
 | 8 | [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) | [ArrayPlusArray.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/ArrayPlusArray.java) |
 | 8 | [L1: Set Alarm](https://www.codewars.com/kata/568dcc3c7f12767a62000038) | [L1SetAlarm.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/L1SetAlarm.java) |
-
-## Kata Ranking (kyu)
-
-Ranks are used to indicate progression and difficulty. Code Warriors complete Kata which are assigned a rank, which in turn earns them a higher rank once they complete enough of them. There are two classes of ranks, Kyu and Dan. You begin with Kyu at level 8 and work your way down to level 1. Then you progress to Dan, where you work your way up from level 1 to level 8.
-
-<!--
-### **1 kyu** kata represent a proficient programming level.
-
-At this level kata are similar to 2 kyu but more challenging. They may include concepts such as:
-* Advanced AI/machine learning algorithms
-* Complex interpreters and compilers
-* Complex Mini-programs with multiple feature requirements (such as a complete markdown parser)
--->
-<!--
-### **2 kyu** kata represent a proficient programming level.
-
-At this level kata require a mature understanding of complex programming concepts - concepts such as:
-* Complex AI/machine learning algorithms
-* Reverse engineering techniques
-* Basic interpreters and compilers
-* Basic mini-programs with multiple feature requirements (such as a basic markdown parser)
--->
-<!--
-### **3 kyu** kata represent a competent programming level.
-
-At this level the kata are similar to 4 kyu but are more challenging. They include tasks that may handle:
-* Computer science concepts utilizing advanced algorithms
-* Ability to implement advanced requirements in a scalable fashion
-* Basic AI/machine learning algorithms
-* Detailed usage of advanced concepts such as concurrency, parallelism and cryptography
--->
-### **4 kyu** kata represent a competent programming level.
-
-At this level the kata begin to take some serious thought to complete. They include tasks that may handle:
-* Computer science concepts utilizing complex algorithms
-* Advanced design patterns
-* Understanding intricate business requirements
-* Advanced concepts such as concurrency, parallelism, meta programming and cryptography
-
-### **5 kyu** kata represent a novice programming level.
-
-At this level the kata are similar to 6 kyu but more challenging. It includes:
-* Complex language features that require mature OOP/Functional concepts
-* Advanced OOP/Functional concepts
-* Complex Design Patterns
-* Advanced regular expression usage
-
-### **6 kyu** kata represent a novice programming level.
-
-At this level the kata will start to include more advanced algorithmic challenges and more complex language features. It includes:
-* Complex language features (closures, scopes, monads, etc)
-* Complex OOP/Functional concepts
-* Basic Design Patterns
-* Complex Regular Expressions
-
-### **7 kyu** kata represent a beginner programming level.
-
-At this level the kata will generally challenge users on their core language and API reference knowledge. Tasks such as:
-* Iterating arrays and returning a subset of values
-* Basic data type manipulations
-* Basic functional or object-oriented concepts
-* Basic Regular Expressions
-
-### **8 kyu** kata represent a beginner level.
-
-At this level the kata is only challenging for users new to programming. This includes programming tasks such as:
-* Defining a simple function (i.e. hello world)
-* Basic variable assignments
-* Fixing basic syntax issues
-* Trivial algorithms such as basic if/else statements
+____
