@@ -5,6 +5,9 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 
+/**
+ * @author Nika Zurbaevi
+ */
 public class SortOneThreeTwo {
 
     public static class Dinglemouse {
