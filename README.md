@@ -27,4 +27,5 @@ ____
 | 8 | [N-th Power](https://www.codewars.com/kata/57d814e4950d8489720008db) | [NthPower.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/NthPower.java) |
 | 8 | [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) | [ArrayPlusArray.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/ArrayPlusArray.java) |
 | 8 | [L1: Set Alarm](https://www.codewars.com/kata/568dcc3c7f12767a62000038) | [L1SetAlarm.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/L1SetAlarm.java) |
+| 8 | [Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c) | [SumArray.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/SumArray.java) |
 ____
