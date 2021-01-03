@@ -28,4 +28,6 @@ ____
 | 8 | [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) | [ArrayPlusArray.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/ArrayPlusArray.java) |
 | 8 | [L1: Set Alarm](https://www.codewars.com/kata/568dcc3c7f12767a62000038) | [L1SetAlarm.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/L1SetAlarm.java) |
 | 8 | [Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c) | [SumArray.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/SumArray.java) |
+| 8 | [Reverse Sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d) | [ReversedSequence.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/ReversedSequence.java) |
+| 8 | [Reverse String](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) | [ReverseString.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/ReverseString.java) |
 ____
