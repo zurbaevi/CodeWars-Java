@@ -32,4 +32,5 @@ ____
 | 8 | [Reverse Sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d) | [ReversedSequence.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/ReversedSequence.java) |
 | 8 | [Reverse String](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) | [ReverseString.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/ReverseString.java) |
 | 8 | [Convert to binary](https://www.codewars.com/kata/59fca81a5712f9fa4700159a) | [ConvertToBinary.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/ConvertToBinary.java) |
+| 8 | [Multiplication table for number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce) | [MultiplicationTableForNumber.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/MultiplicationTableForNumber.java) |
 ____
