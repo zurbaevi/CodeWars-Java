@@ -19,6 +19,7 @@ ____
 | 7 | [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) | [HighestAndLowest.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/HighestAndLowest.java) |
 | 7 | [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c) | [OnesAndZeros.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu7/OnesAndZeros.java) |
 | 7 | [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) | [Square.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/Square.java) |
+| 7 | [Max-min Arrays](https://www.codewars.com/kata/5a090c4e697598d0b9000004) | [MaxMinArrays.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/MaxMinArrays.java) |
 | 8 | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) | [MakeNegative.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/MakeNegative.java) |
 | 8 | [Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d) | [FakeBinary.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/FakeBinary.java) |
 | 8 | [Is it even?](https://www.codewars.com/kata/555a67db74814aa4ee0001b5) | [Number.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/Number.java) |
