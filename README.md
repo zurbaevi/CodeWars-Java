@@ -33,4 +33,5 @@ ____
 | 8 | [Reverse String](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) | [ReverseString.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/ReverseString.java) |
 | 8 | [Convert to binary](https://www.codewars.com/kata/59fca81a5712f9fa4700159a) | [ConvertToBinary.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/ConvertToBinary.java) |
 | 8 | [Multiplication table for number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce) | [MultiplicationTableForNumber.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/MultiplicationTableForNumber.java) |
+| 8 | [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [StringRepeat.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/StringRepeat.java) |
 ____
