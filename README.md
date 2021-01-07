@@ -22,6 +22,7 @@ ____
 | 7 | [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c) | [OnesAndZeros.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu7/OnesAndZeros.java) |
 | 7 | [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) | [Square.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/Square.java) |
 | 7 | [Max-min Arrays](https://www.codewars.com/kata/5a090c4e697598d0b9000004) | [MaxMinArrays.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/MaxMinArrays.java) |
+| 7 | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | [VowelCount.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/VowelCount.java) |
 | 8 | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) | [MakeNegative.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/MakeNegative.java) |
 | 8 | [Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d) | [FakeBinary.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/FakeBinary.java) |
 | 8 | [Is it even?](https://www.codewars.com/kata/555a67db74814aa4ee0001b5) | [Number.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/Number.java) |
@@ -36,4 +37,5 @@ ____
 | 8 | [Convert to binary](https://www.codewars.com/kata/59fca81a5712f9fa4700159a) | [ConvertToBinary.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/ConvertToBinary.java) |
 | 8 | [Multiplication table for number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce) | [MultiplicationTableForNumber.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/MultiplicationTableForNumber.java) |
 | 8 | [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [StringRepeat.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/StringRepeat.java) |
+| 8 | [Sum without highest and lowest number](https://www.codewars.com/kata/576b93db1129fcf2200001e6) | [SumWithoutHighestAndLowestNumber.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/SumWithoutHighestAndLowestNumber.java) |
 ____
