@@ -39,4 +39,5 @@ ____
 | 8 | [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [StringRepeat.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/StringRepeat.java) |
 | 8 | [Sum without highest and lowest number](https://www.codewars.com/kata/576b93db1129fcf2200001e6) | [SumWithoutHighestAndLowestNumber.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/SumWithoutHighestAndLowestNumber.java) |
 | 8 | [Switch it Up!](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) | [SwitchItUp.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/SwitchItUp.java) |
+| 8 | [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | [AbbreviateATwoWordName.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/AbbreviateATwoWordName.java) |
 ____
