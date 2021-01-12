@@ -10,19 +10,19 @@ import java.util.List;
  */
 public class SortOneThreeTwo {
 
-    public static class Dinglemouse {
+    public static class DingleMouse {
 
         public static int[] sort(final int[] array) {
-            List<NumerAsText> list = new ArrayList<>();
+            List<NumberAsText> list = new ArrayList<>();
             for (int n : array) {
-                list.add(new NumerAsText(n));
+                list.add(new NumberAsText(n));
             }
-            list.sort(Comparator.comparing(NumerAsText::getText));
-            return Arrays.stream(list.toArray(new NumerAsText[0])).mapToInt(NumerAsText::getNumber).toArray();
+            list.sort(Comparator.comparing(NumberAsText::getText));
+            return Arrays.stream(list.toArray(new NumberAsText[0])).mapToInt(NumberAsText::getNumber).toArray();
         }
     }
 
-    static class NumerAsText {
+    static class NumberAsText {
 
         private static final String[] FIRST_19 = {"", " one", " two", " three",
                 " four", " five", " six", " seven", " eight", " nine", " ten",
@@ -35,7 +35,7 @@ public class SortOneThreeTwo {
         private final int number;
         private final String text;
 
-        NumerAsText(int number) {
+        NumberAsText(int number) {
             this.number = number;
             if (number == 0) text = "zero";
             else {
