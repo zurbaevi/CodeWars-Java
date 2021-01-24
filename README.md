@@ -19,6 +19,7 @@ ____
 | 6 | [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836) | [FindTheOddInt.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu6/FindTheOddInt.java) |
 | 6 | [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) | [DetectPangram.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu6/DetectPangram.java) |
 | 6 | [String array duplicates](https://www.codewars.com/kata/59f08f89a5e129c543000069) | [StringArrayDuplicates.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu6/StringArrayDuplicates.java) |
+| 6 | [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) | [FindTheUniqueNumber.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu6/FindTheUniqueNumber.java) |
 | 7 | [Unlucky Days](https://www.codewars.com/kata/56eb0be52caf798c630013c0) | [UnluckyDays.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/UnluckyDays.java) |
 | 7 | [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) | [HighestAndLowest.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/HighestAndLowest.java) |
 | 7 | [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c) | [OnesAndZeros.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu7/OnesAndZeros.java) |
