@@ -33,6 +33,7 @@ ____
 | 7 | [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6) | [JadenCasingStrings.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/JadenCasingStrings.java) |
 | 7 | [Money Money Money](https://www.codewars.com/kata/563f037412e5ada593000114) | [MoneyMoneyMoney.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/MoneyMoneyMoney.java) |
 | 7 | [Summy](https://www.codewars.com/kata/599c20626bd8795ce900001d) | [Summy.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/Summy.java) |
+| 7 | [Simple letter removal](https://www.codewars.com/kata/5b728f801db5cec7320000c7) | [SimpleLetterRemoval.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/SimpleLetterRemoval.java) |
 | 8 | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) | [MakeNegative.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/MakeNegative.java) |
 | 8 | [Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d) | [FakeBinary.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/FakeBinary.java) |
 | 8 | [Is it even?](https://www.codewars.com/kata/555a67db74814aa4ee0001b5) | [Number.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/Number.java) |
