@@ -10,6 +10,7 @@ ____
 | 4 | [How many Numbers](https://www.codewars.com/kata/5877e7d568909e5ff90017e6) | [HowManyNumbers.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu4/HowManyNumbers.java) |
 | 4 | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | [Snail.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu4/Snail.java) |
 | 4 | [parseInt() reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5) | [ParseIntReloaded.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu4/ParseIntReloaded.java) |
+| 4 | [Most frequently used words in a text](https://www.codewars.com/kata/51e056fe544cf36c410000fb) | [MostFrequentlyUsedWordsInAText.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu4/MostFrequentlyUsedWordsInAText.java) |
 | 5 | [Int32 To IPv4](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e) | [int32ToIPv4.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu5/int32ToIPv4.java) |
 | 5 | [Sort one three Two](https://www.codewars.com/kata/56f4ff45af5b1f8cd100067d) | [SortOneThreeTwo.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu5/SortOneThreeTwo.java) |
 | 5 | [Count IP Addresses](https://www.codewars.com/kata/526989a41034285187000de4) | [CountIPAddresses.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu5/CountIPAddresses.java) |
