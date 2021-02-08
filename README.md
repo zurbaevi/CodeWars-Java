@@ -37,6 +37,7 @@ ____
 | 7 | [Simple letter removal](https://www.codewars.com/kata/5b728f801db5cec7320000c7) | [SimpleLetterRemoval.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/SimpleLetterRemoval.java) |
 | 7 | [Letterbox Paint-Squad](https://www.codewars.com/kata/597d75744f4190857a00008d) | [LetterboxPaintSquad.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/LetterboxPaintSquad.java) |
 | 7 | [FIXME: Get Full Name](https://www.codewars.com/kata/597c684822bc9388f600010f) | [FIXMEGetFullName.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/FIXMEGetFullName.java) |
+| 7 | [FIXME: 1, 2, 3, 4](https://www.codewars.com/kata/5b13c699af73864aa7000031) | [FIXME1234.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/FIXME1234.java) |
 | 8 | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) | [MakeNegative.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/MakeNegative.java) |
 | 8 | [Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d) | [FakeBinary.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/FakeBinary.java) |
 | 8 | [Is it even?](https://www.codewars.com/kata/555a67db74814aa4ee0001b5) | [Number.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/Number.java) |
