@@ -58,4 +58,5 @@ ____
 | 8 | [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | [AbbreviateATwoWordName.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/AbbreviateATwoWordName.java) |
 | 8 | [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | [RemoveStringSpaces.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/RemoveStringSpaces.java) |
 | 8 | [FIXME: Replace all dots](https://www.codewars.com/kata/596c6eb85b0f515834000049) | [FIXMEReplaceAllDots.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/FIXMEReplaceAllDots.java) |
+| 8 | [FIXME: Static electrickery](https://www.codewars.com/kata/596c55fc7bd5476bf60000d5) | [FIXMEStaticElectrickery.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/FIXMEStaticElectrickery.java) |
 ____
