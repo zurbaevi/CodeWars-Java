@@ -6,6 +6,7 @@ Codewars - это образовательное сообщество по ко�
 ____
 | kyu | Codewars Kate | My Solutions |
 | --- | --- | --- |
+| 3 | [Calculator](https://www.codewars.com/kata/5235c913397cbf2508000048) | [Calculator.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu3/Calculator.java) |
 | 4 | [Sum by Factors](https://www.codewars.com/kata/54d496788776e49e6b00052f) | [SumByFactors.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu4/SumByFactors.java) |
 | 4 | [How many Numbers](https://www.codewars.com/kata/5877e7d568909e5ff90017e6) | [HowManyNumbers.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu4/HowManyNumbers.java) |
 | 4 | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | [Snail.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu4/Snail.java) |
