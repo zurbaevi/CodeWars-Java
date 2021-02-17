@@ -66,4 +66,5 @@ ____
 | 8 | [FIXME: Static electrickery](https://www.codewars.com/kata/596c55fc7bd5476bf60000d5) | [FIXMEStaticElectrickery.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/FIXMEStaticElectrickery.java) |
 | 8 | [Lario and Muigi Pipe Problem](https://www.codewars.com/kata/56b29582461215098d00000f) | [LarioAndMuigiPipeProblem.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/LarioAndMuigiPipeProblem.java) |
 | 8 | [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [BeginnerReduceButGrow.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/BeginnerReduceButGrow.java) |
+| 8 | [Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e) | [BeginnerLostWithoutAMap.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/BeginnerLostWithoutAMap.java) |
 ____
