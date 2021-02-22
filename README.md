@@ -44,6 +44,7 @@ ____
 | 7 | [FIXME: Hours to Seconds](https://www.codewars.com/kata/596b041e224071ece200002e) | [FIXMEHoursToSeconds.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/FIXMEHoursToSeconds.java) |
 | 7 | [FIXME: Let's split this joint](https://www.codewars.com/kata/5a53f300d8e145df7f000497) | [FIXMELetsSplitThisJoint.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/FIXMELetsSplitThisJoint.java) |
 | 7 | [FIXME: Run, Runner!](https://www.codewars.com/kata/596b2b9d9e2fbd7811000046) | [FIXMERunRunner.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/FIXMERunRunner.java) |
+| 7 | [Spoonerize Me](https://www.codewars.com/kata/56b8903933dbe5831e000c76) | [SpoonerizeMe.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/SpoonerizeMe.java) |
 | 8 | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) | [MakeNegative.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/MakeNegative.java) |
 | 8 | [Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d) | [FakeBinary.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/FakeBinary.java) |
 | 8 | [Is it even?](https://www.codewars.com/kata/555a67db74814aa4ee0001b5) | [Number.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/Number.java) |
