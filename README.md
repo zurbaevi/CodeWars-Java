@@ -69,4 +69,5 @@ ____
 | 8 | [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [BeginnerReduceButGrow.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/BeginnerReduceButGrow.java) |
 | 8 | [Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e) | [BeginnerLostWithoutAMap.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/BeginnerLostWithoutAMap.java) |
 | 8 | [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097) | [CenturyFromYear.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/CenturyFromYear.java) |
+| 8 | [Grasshopper - Grade book](https://www.codewars.com/kata/55cbd4ba903825f7970000f5) | [GrasshopperGradeBook.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/GrasshopperGradeBook.java) |
 ____
