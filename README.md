@@ -46,6 +46,8 @@ ____
 | 7 | [FIXME: Let's split this joint](https://www.codewars.com/kata/5a53f300d8e145df7f000497) | [FIXMELetsSplitThisJoint.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/FIXMELetsSplitThisJoint.java) |
 | 7 | [FIXME: Run, Runner!](https://www.codewars.com/kata/596b2b9d9e2fbd7811000046) | [FIXMERunRunner.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/FIXMERunRunner.java) |
 | 7 | [Spoonerize Me](https://www.codewars.com/kata/56b8903933dbe5831e000c76) | [SpoonerizeMe.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/SpoonerizeMe.java) |
+| 8 | [Odd Or Even](https://www.codewars.com/kata/5949481f86420f59480000e7) | [OddOrEven.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu7/OddOrEven.java) |
+| 8 | [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | [DescendingOrder.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu7/DescendingOrder.java) |
 | 8 | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) | [MakeNegative.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/MakeNegative.java) |
 | 8 | [Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d) | [FakeBinary.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/FakeBinary.java) |
 | 8 | [Is it even?](https://www.codewars.com/kata/555a67db74814aa4ee0001b5) | [Number.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu8/Number.java) |
@@ -72,4 +74,6 @@ ____
 | 8 | [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097) | [CenturyFromYear.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/CenturyFromYear.java) |
 | 8 | [Grasshopper - Grade book](https://www.codewars.com/kata/55cbd4ba903825f7970000f5) | [GrasshopperGradeBook.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/GrasshopperGradeBook.java) |
 | 8 | [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [GrasshopperSummation.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/GrasshopperSummation.java) |
+| 8 | [Function 1 Hello world](https://www.codewars.com/kata/523b4ff7adca849afe000035) | [Function1HelloWorld.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/Function1HelloWorld.java) |
+| 8 | [Make upper case](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | [MakeUpperCase.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/MakeUpperCase.java) |
 ____
