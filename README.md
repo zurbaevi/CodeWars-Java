@@ -79,4 +79,5 @@ ____
 | 8 | [Grasshopper - Terminal game move function](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2) | [GrasshopperTerminalGameMoveFunction.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/GrasshopperTerminalGameMoveFunction.java) |
 | 8 | [Function 1 Hello world](https://www.codewars.com/kata/523b4ff7adca849afe000035) | [Function1HelloWorld.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/Function1HelloWorld.java) |
 | 8 | [Make upper case](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | [MakeUpperCase.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/MakeUpperCase.java) |
+| 8 | [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381) | [SumOfPositive.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/SumOfPositive.java) |
 ____
