@@ -80,4 +80,5 @@ ____
 | 8 | [Function 1 Hello world](https://www.codewars.com/kata/523b4ff7adca849afe000035) | [Function1HelloWorld.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/Function1HelloWorld.java) |
 | 8 | [Make upper case](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | [MakeUpperCase.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/MakeUpperCase.java) |
 | 8 | [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381) | [SumOfPositive.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/SumOfPositive.java) |
+| 8 | [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | [ConvertANumberToAString.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/ConvertANumberToAString.java) |
 ____
