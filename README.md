@@ -81,4 +81,5 @@ ____
 | 8 | [Make upper case](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | [MakeUpperCase.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/MakeUpperCase.java) |
 | 8 | [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381) | [SumOfPositive.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/SumOfPositive.java) |
 | 8 | [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | [ConvertANumberToAString.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/ConvertANumberToAString.java) |
+| 8 | [Grasshopper - Personalized Message](https://www.codewars.com/kata/5772da22b89313a4d50012f7) | [GrasshopperPersonalizedMessage.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/GrasshopperPersonalizedMessage.java) |
 ____
