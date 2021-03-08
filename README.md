@@ -28,6 +28,7 @@ ____
 | 6 | [FIXME: Hello](https://www.codewars.com/kata/5b0a80ce84a30f4762000069) | [FIXMEHello.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu6/FIXMEHello.java) |
 | 6 | [Give me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648) | [GiveMeADiamond.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu6/GiveMeADiamond.java) |
 | 6 | [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003) | [ConvertStringToCamelCase.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu6/ConvertStringToCamelCase.java) |
+| 6 | [Write Number in Expanded Form](https://www.codewars.com/kata/5842df8ccbd22792a4000245) | [WriteNumberInExpandedForm.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu6/WriteNumberInExpandedForm.java) |
 | 7 | [Unlucky Days](https://www.codewars.com/kata/56eb0be52caf798c630013c0) | [UnluckyDays.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/UnluckyDays.java) |
 | 7 | [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) | [HighestAndLowest.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/HighestAndLowest.java) |
 | 7 | [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c) | [OnesAndZeros.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu7/OnesAndZeros.java) |
