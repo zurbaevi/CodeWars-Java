@@ -84,4 +84,5 @@ ____
 | 8 | [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | [ConvertANumberToAString.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/ConvertANumberToAString.java) |
 | 8 | [Grasshopper - Personalized Message](https://www.codewars.com/kata/5772da22b89313a4d50012f7) | [GrasshopperPersonalizedMessage.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/GrasshopperPersonalizedMessage.java) |
 | 8 | [Convert a Boolean to a String](https://www.codewars.com/kata/551b4501ac0447318f0009cd) | [ConvertABooleanToAStringConvertABooleanToAString.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/ConvertABooleanToAStringConvertABooleanToAString.java) |
+| 8 | [Stringy Strings](https://www.codewars.com/kata/563b74ddd19a3ad462000054) | [StringyStrings.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/StringyStrings.java) |
 ____
