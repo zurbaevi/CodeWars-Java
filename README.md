@@ -18,6 +18,7 @@ ____
 | 5 | [Square Matrix Multiplication](https://www.codewars.com/kata/5263a84ffcadb968b6000513) | [SquareMatrixMultiplication.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu5/SquareMatrixMultiplication.java) |
 | 5 | [Simple number sequence](https://www.codewars.com/kata/5a28cf591f7f7019a80000de) | [SimpleNumberSequence.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu5/SimpleNumberSequence.java) |
 | 6 | [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c) | [AreTheyTheSame.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu6/AreTheyTheSame.java) |
+| 6 | [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006) | [MultiplesOf3Or5.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu6/MultiplesOf3Or5.java) |
 | 6 | [Most Frequent Weekdays](https://www.codewars.com/kata/56eb16655250549e4b0013f4) | [MostFrequentWeekdays.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu6/MostFrequentWeekdays.java) |
 | 6 | [Sort the odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d) | [SortTheOdd.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu6/SortTheOdd.java) |
 | 6 | [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836) | [FindTheOddInt.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu6/FindTheOddInt.java) |
