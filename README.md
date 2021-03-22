@@ -89,4 +89,5 @@ ____
 | 8 | [Stringy Strings](https://www.codewars.com/kata/563b74ddd19a3ad462000054) | [StringyStrings.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/StringyStrings.java) |
 | 8 | [Squash the bugs](https://www.codewars.com/kata/56f173a35b91399a05000cb7) | [SquashTheBugs.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/SquashTheBugs.java) |
 | 8 | [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086) | [IsNDivisibleByXAndY.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/IsNDivisibleByXAndY.java) |
+| 8 | [My head is at the wrong end!](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55) | [MyHeadIsAtTheWrongEnd.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/MyHeadIsAtTheWrongEnd.java) |
 ____
