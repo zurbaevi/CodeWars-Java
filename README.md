@@ -50,6 +50,7 @@ ____
 | 7 | [FIXME: Run, Runner!](https://www.codewars.com/kata/596b2b9d9e2fbd7811000046) | [FIXMERunRunner.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/FIXMERunRunner.java) |
 | 7 | [Spoonerize Me](https://www.codewars.com/kata/56b8903933dbe5831e000c76) | [SpoonerizeMe.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/SpoonerizeMe.java) |
 | 7 | [Find Screen Size](https://www.codewars.com/kata/5bbd279c8f8bbd5ee500000f) | [FindScreenSize.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/FindScreenSize.java) |
+| 7 | [Reverse a Number](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5) | [ReverseANumber.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/ReverseANumber.java) |
 | 7 | [The old switcheroo](https://www.codewars.com/kata/55d410c492e6ed767000004f) | [TheOldSwitcheroo.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/TheOldSwitcheroo.java) |
 | 7 | [Shifter word](https://www.codewars.com/kata/603b2bb1c7646d000f900083) | [ShifterWords.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu7/ShifterWords.java) |
 | 8 | [Odd Or Even](https://www.codewars.com/kata/5949481f86420f59480000e7) | [OddOrEven.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu7/OddOrEven.java) |
