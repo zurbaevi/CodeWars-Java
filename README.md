@@ -92,4 +92,5 @@ ____
 | 8 | [Squash the bugs](https://www.codewars.com/kata/56f173a35b91399a05000cb7) | [SquashTheBugs.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/SquashTheBugs.java) |
 | 8 | [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086) | [IsNDivisibleByXAndY.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/IsNDivisibleByXAndY.java) |
 | 8 | [My head is at the wrong end!](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55) | [MyHeadIsAtTheWrongEnd.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/MyHeadIsAtTheWrongEnd.java) |
+| 8 | [Remove exclamation marks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e) | [RemoveExclamationMarks.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/RemoveExclamationMarks.java) |
 ____
