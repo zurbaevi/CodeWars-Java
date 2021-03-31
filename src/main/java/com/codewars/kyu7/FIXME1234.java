@@ -14,7 +14,7 @@ public class FIXME1234 {
         return List.of(MyNumber.values()).get(("_oneichiun____twonideux____threesantroisfourshiquatre").indexOf(name) / 13);
     }
 
-    static enum MyNumber {
+    enum MyNumber {
         ONE(1, "one", "ichi", "un"),
         TWO(2, "two", "ni", "deux"),
         THREE(3, "three", "san", "trois"),
@@ -22,7 +22,7 @@ public class FIXME1234 {
 
         private final int val;
 
-        private MyNumber(int val, String... names) {
+        MyNumber(int val, String... names) {
             this.val = val;
             for (final String n : names) cache.put(n, this);
         }
