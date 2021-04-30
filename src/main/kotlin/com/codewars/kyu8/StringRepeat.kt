@@ -1,4 +1,4 @@
-package com.example.kyu8
+package com.codewars.kyu8
 
 /**
  * @author Zurbaevi Nika
