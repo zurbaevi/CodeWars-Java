@@ -99,5 +99,5 @@ ____
 # Kotlin
 | kyu | Codewars Kate | My Solutions |
 | --- | --- | --- |
-|  | []() | []() |
+| 8 | [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [StringRepeat.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/StringRepeat.kt) |
 ____
