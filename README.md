@@ -100,4 +100,5 @@ ____
 | kyu | Codewars Kate | My Solutions |
 | --- | --- | --- |
 | 8 | [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [StringRepeat.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/StringRepeat.kt) |
+| 8 | [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4) | [ReturningStrings.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/ReturningStrings.kt) |
 ____
