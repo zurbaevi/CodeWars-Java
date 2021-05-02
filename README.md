@@ -102,4 +102,5 @@ ____
 | 8 | [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [StringRepeat.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/StringRepeat.kt) |
 | 8 | [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4) | [ReturningStrings.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/ReturningStrings.kt) |
 | 8 | [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) | [RemoveFirstAndLastCharacter.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/RemoveFirstAndLastCharacter.kt) |
+| 8 | [Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051) | [ConvertNumberToReversedArrayOfDigits.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/ConvertNumberToReversedArrayOfDigits.kt) |
 ____
