@@ -107,4 +107,5 @@ ____
 | 8 | [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) | [ReversedWords.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/ReversedWords.kt) |
 | 8 | [Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | [FindTheSmallestIntegerInTheArray.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/FindTheSmallestIntegerInTheArray.kt) |
 | 8 | [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009) | [SumMixedArray.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/SumMixedArray.kt) |
+| 8 | [Count of positives / sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | [CountOfPositivesSumOfNegatives.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/CountOfPositivesSumOfNegatives.kt) |
 ____
