@@ -109,4 +109,5 @@ ____
 | 8 | [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009) | [SumMixedArray.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/SumMixedArray.kt) |
 | 8 | [Count of positives / sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | [CountOfPositivesSumOfNegatives.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/CountOfPositivesSumOfNegatives.kt) |
 | 8 | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) | [EvenOrOdd.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/EvenOrOdd.kt) |
+| 8 | [Simple multiplication](https://www.codewars.com/kata/583710ccaa6717322c000105) | [SimpleMultiplication.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/SimpleMultiplication.kt) |
 ____
