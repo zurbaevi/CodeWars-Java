@@ -113,5 +113,6 @@ ____
 | 8 | [Count of positives / sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | [CountOfPositivesSumOfNegatives.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/CountOfPositivesSumOfNegatives.kt) |
 | 8 | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) | [EvenOrOdd.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/EvenOrOdd.kt) |
 | 8 | [Simple multiplication](https://www.codewars.com/kata/583710ccaa6717322c000105) | [SimpleMultiplication.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/SimpleMultiplication.kt) |
-| 8 | [Twice as old](https://www.codewars.com/kata/5b853229cfde412a470000d0) | [twiceAsOld.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/twiceAsOld.kt) |
+| 8 | [Twice as old](https://www.codewars.com/kata/5b853229cfde412a470000d0) | [TwiceAsOld.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/twiceAsOld.kt) |
+| 8 | [Small enough? - Beginner](https://www.codewars.com/kata/5b853229cfde412a470000d0) | [SmallEnoughBeginner.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/SmallEnoughBeginner.kt) |
 ____
