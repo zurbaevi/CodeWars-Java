@@ -115,5 +115,6 @@ ____
 | 8 | [Simple multiplication](https://www.codewars.com/kata/583710ccaa6717322c000105) | [SimpleMultiplication.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/SimpleMultiplication.kt) |
 | 8 | [Twice as old](https://www.codewars.com/kata/5b853229cfde412a470000d0) | [TwiceAsOld.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/TwiceAsOld.kt) |
 | 8 | [Opposite number](https://www.codewars.com/kata/5b853229cfde412a470000d0) | [OppositeNumber.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/OppositeNumber.kt) |
+| 8 | [You Can't Code Under Pressure #1](https://www.codewars.com/kata/53ee5429ba190077850011d4) | [YouCantCodeUnderPressure.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/YouCantCodeUnderPressure.kt) |
 | 7 | [Small enough? - Beginner](https://www.codewars.com/kata/5b853229cfde412a470000d0) | [SmallEnoughBeginner.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/SmallEnoughBeginner.kt) |
 ____
