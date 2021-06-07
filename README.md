@@ -120,4 +120,5 @@ ____
 | 7 | [Small enough? - Beginner](https://www.codewars.com/kata/5b853229cfde412a470000d0) | [SmallEnoughBeginner.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/SmallEnoughBeginner.kt) |
 | 7 | [Even numbers in an array](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c) | [EvenNumbersInAnArray.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/EvenNumbersInAnArray.kt) |
 | 7 | [Fix string case](https://www.codewars.com/kata/5b180e9fedaa564a7000009a) | [FixStringCase.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/FixStringCase.kt) |
+| 7 | [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) | [TwoToOne.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/TwoToOne.kt) |
 ____
