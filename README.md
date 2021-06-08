@@ -121,4 +121,5 @@ ____
 | 7 | [Even numbers in an array](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c) | [EvenNumbersInAnArray.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/EvenNumbersInAnArray.kt) |
 | 7 | [Fix string case](https://www.codewars.com/kata/5b180e9fedaa564a7000009a) | [FixStringCase.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/FixStringCase.kt) |
 | 7 | [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) | [TwoToOne.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/TwoToOne.kt) |
+| 7 | [Simple beads count](https://www.codewars.com/kata/58712dfa5c538b6fc7000569) | [SimpleBeadsCount.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/SimpleBeadsCount.kt) |
 ____
