@@ -1,14 +1,26 @@
 ____
+
 # Практикум на codewars
-Codewars - это образовательное сообщество по компьютерному программированию. На платформе разработчики программного обеспечения обучаются задачам программирования, известным как ката. Эти упражнения по дискретному программированию тренируют ряд навыков на различных языках программирования и выполняются в интегрированной онлайн-среде разработки.
+
+Codewars - это образовательное сообщество по компьютерному программированию. На платформе разработчики программного
+обеспечения обучаются задачам программирования, известным как ката. Эти упражнения по дискретному программированию
+тренируют ряд навыков на различных языках программирования и выполняются в интегрированной онлайн-среде разработки.
 
 ## Рейтинг Ката (kyu):
-Звания используются для обозначения прогресса и сложности. Воины Кодекса завершают Ката, которым присваивается ранг, который, в свою очередь, дает им более высокий ранг, когда они выполнили их достаточно. Есть два класса рангов, Кю и Дан. Вы начинаете с Кю на уровне 8 и продвигаетесь вниз до уровня 1. Затем вы переходите к Дэну, где вы продвигаетесь вверх с уровня 1 до уровня 8.
+
+Звания используются для обозначения прогресса и сложности. Воины Кодекса завершают Ката, которым присваивается ранг,
+который, в свою очередь, дает им более высокий ранг, когда они выполнили их достаточно. Есть два класса рангов, Кю и
+Дан. Вы начинаете с Кю на уровне 8 и продвигаетесь вниз до уровня 1. Затем вы переходите к Дэну, где вы продвигаетесь
+вверх с уровня 1 до уровня 8.
 ____
+
 * [JAVA](#java)
 * [KOTLIN](#kotlin)
+
 ____
+
 # Java
+
 | kyu | Codewars Kate | My Solutions |
 | --- | --- | --- |
 | 3 | [Calculator](https://www.codewars.com/kata/5235c913397cbf2508000048) | [Calculator.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu3/Calculator.java) |
@@ -98,8 +110,11 @@ ____
 | 8 | [My head is at the wrong end!](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55) | [MyHeadIsAtTheWrongEnd.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/MyHeadIsAtTheWrongEnd.java) |
 | 8 | [Remove exclamation marks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e) | [RemoveExclamationMarks.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/RemoveExclamationMarks.java) |
 | 8 | [Calculate average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921) | [CalculateAverage.java](https://github.com/zurbaevi/codewars-java/blob/main/src/main/java/com/codewars/kyu8/CalculateAverage.java) |
+
 ____
+
 # Kotlin
+
 | kyu | Codewars Kate | My Solutions |
 | --- | --- | --- |
 | 8 | [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [StringRepeat.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/StringRepeat.kt) |
@@ -122,4 +137,5 @@ ____
 | 7 | [Fix string case](https://www.codewars.com/kata/5b180e9fedaa564a7000009a) | [FixStringCase.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/FixStringCase.kt) |
 | 7 | [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) | [TwoToOne.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/TwoToOne.kt) |
 | 7 | [Simple beads count](https://www.codewars.com/kata/58712dfa5c538b6fc7000569) | [SimpleBeadsCount.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/SimpleBeadsCount.kt) |
+
 ____
