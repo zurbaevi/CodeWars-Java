@@ -142,5 +142,6 @@ ____
 | 7 | [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) | [TwoToOne.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/TwoToOne.kt) |
 | 7 | [Simple beads count](https://www.codewars.com/kata/58712dfa5c538b6fc7000569) | [SimpleBeadsCount.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/SimpleBeadsCount.kt) |
 | 7 | [Simple Fun #176: Reverse Letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b) | [ReverseLetter.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/ReverseLetter.kt) |
+| 7 | [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) | [HighestAndLowest.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/HighestAndLowest.kt) |
 
 ____
