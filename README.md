@@ -148,5 +148,6 @@ ____
 | 7 | [Simple Fun #176: Reverse Letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b) | [ReverseLetter.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/ReverseLetter.kt) |
 | 7 | [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) | [HighestAndLowest.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/HighestAndLowest.kt) |
 | 7 | [Circular List](https://www.codewars.com/kata/5b2e60742ae7543f9d00005d) | [CircularList.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/CircularList.kt) |
+| 7 | [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) | [ShortestWord.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/ShortestWord.kt) |
 
 ____
