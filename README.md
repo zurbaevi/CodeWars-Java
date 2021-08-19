@@ -140,6 +140,7 @@ ____
 | 8 | [Reversed sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d) | [ReversedSequence.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/ReversedSequence.kt) |
 | 8 | [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097) | [CenturyFromYear.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/CenturyFromYear.kt) |
 | 8 | [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | [Multiply.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/Multiply.kt) |
+| 8 | [The Feast of Many Beasts](https://www.codewars.com/kata/5aa736a455f906981800360d) | [TheFeastOfManyBeasts.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu8/TheFeastOfManyBeasts.kt) |
 | 7 | [Small enough? - Beginner](https://www.codewars.com/kata/5b853229cfde412a470000d0) | [SmallEnoughBeginner.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/SmallEnoughBeginner.kt) |
 | 7 | [Even numbers in an array](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c) | [EvenNumbersInAnArray.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/EvenNumbersInAnArray.kt) |
 | 7 | [Fix string case](https://www.codewars.com/kata/5b180e9fedaa564a7000009a) | [FixStringCase.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/FixStringCase.kt) |
