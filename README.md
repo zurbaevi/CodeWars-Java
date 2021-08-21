@@ -152,6 +152,6 @@ ____
 | 7 | [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) | [ShortestWord.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/ShortestWord.kt) |
 | 7 | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | [VowelCount.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu7/VowelCount.kt) |
 | 6 | [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003) | [ConvertStringToCamelCase.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu6/ConvertStringToCamelCase.kt) |
-| 6 | [FIXME: Hello](https://www.codewars.com/kata/5b0a80ce84a30f4762000069) | [FIXMEHello.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu6/FIXMEHellokt) |
+| 6 | [FIXME: Hello](https://www.codewars.com/kata/5b0a80ce84a30f4762000069) | [FIXMEHello.kt](https://github.com/zurbaevi/codewars-solutions/blob/main/src/main/kotlin/com/codewars/kyu6/FIXMEHello.kt) |
 
 ____
