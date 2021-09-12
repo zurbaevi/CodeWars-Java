@@ -7,7 +7,6 @@ fun longest(s1: String, s2: String): String {
     val stringList: ArrayList<String> = arrayListOf()
 
     string.forEach {
-
         if (!stringList.contains(it.toString())) {
             stringList.add(it.toString())
             stringList.sort()
