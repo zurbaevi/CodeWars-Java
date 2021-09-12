@@ -7,5 +7,4 @@ fun toCamelCase(str: String): String =
     str.split("-", "_")
         .mapIndexed { index, word ->
             if (index != 0) word.capitalize() else word
-        }
-        .joinToString("")
+        }.joinToString("")
