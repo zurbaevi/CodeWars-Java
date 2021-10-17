@@ -1,6 +1,7 @@
 package com.codewars.kyu7
 
 fun longest(s1: String, s2: String): String {
+    
     val string = s1 + s2
     val builder = StringBuilder()
     var newString = ""
